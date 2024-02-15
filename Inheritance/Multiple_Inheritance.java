@@ -1,4 +1,3 @@
-package Inheritance;
 interface Animal2{
     void walk();
 }
